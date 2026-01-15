@@ -157,14 +157,6 @@ class AyushmanGupta:
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushmanGupta21-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🌐 Connect & Follow My Journey
 
 <div align="center">
