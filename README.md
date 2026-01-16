@@ -142,11 +142,11 @@ class AyushmanGupta:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AyushmanGupta21&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AyushmanGupta21&theme=neon&hide_border=false" />
+  <br/><br/>
 </div>
+
+---
 
 <div align="center">
   <img
