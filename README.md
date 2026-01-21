@@ -5,7 +5,7 @@
 
 <!-- Professional Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Welcome%20to%20My%20Engineering%20Workspace&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Engineering%20as%20a%20Way%20of%20Thinking%20and%20Learning&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 
