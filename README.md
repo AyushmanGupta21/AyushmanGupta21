@@ -40,7 +40,7 @@ class AyushmanGupta:
             "Problem Solving",
             "Game-based Learning"
         ]
-        self.current_focus = "Building practical, explainable AI systems"
+        self.current_focus = "Building practical and explainable AI systems"
     
     def daily_routine(self):
         return [
