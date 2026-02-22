@@ -6,6 +6,7 @@
 <!-- About Section -->
 <div align="center">
   <h2>🧠 About Me</h2>
+  <img src="assets/dynamic-roles.svg" alt="Dynamic Roles" />
   <p>
     <img src="https://img.shields.io/badge/Background-CSE%20(AI%20%26%20ML)-22C55E?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Background"/>
     <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%7C%20Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" alt="Focus"/>
@@ -46,11 +47,12 @@
 ### 🌐 Full Stack & Product Engineering
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="margin: 0 10px; background-color: white; border-radius: 50%; padding: 5px;"/>
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" style="margin: 0 10px; background-color: white; border-radius: 50%; padding: 5px;"/>
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+</div>
 
 <br/><br/>
 
@@ -80,11 +82,10 @@
 ### 🔐 Web3 & Blockchain Architecture
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" style="margin: 0 10px; background-color: white; border-radius: 50%; padding: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="65" height="65" style="margin: 0 10px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="65" height="65" style="margin: 0 10px; object-fit: contain;"/>
-<img src="https://assets-global.website-files.com/5e2d63499121867b931dc15d/60183061da12711654af0338_Stellar-Logo.png" alt="Soroban" width="65" height="65" style="margin: 0 10px; object-fit: contain;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="65" height="65" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="65" height="65" />
 
 <br/><br/>
 

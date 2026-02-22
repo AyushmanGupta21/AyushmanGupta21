@@ -1,0 +1,123 @@
+<svg fill="none" viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .window {
+          width: 760px;
+          height: 100px;
+          margin: 10px auto;
+          background-color: #0d1117; /* GitHub dark mode background */
+          border: 1px solid #30363d; /* Subtle grey border */
+          border-radius: 8px;
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+          display: flex;
+          flex-direction: column;
+          overflow: hidden;
+          position: relative;
+        }
+
+        .header {
+          height: 30px;
+          padding: 8px 16px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          position: absolute;
+          top: 0;
+          left: 0;
+        }
+
+        .dot {
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+        }
+
+        .red { background-color: #ff5f56; }
+        .yellow { background-color: #ffbd2e; }
+        .green { background-color: #27c93f; }
+
+        .container {
+          width: 100%;
+          flex-grow: 1;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-family: 'Fira Code', 'Courier New', monospace;
+          font-size: 18px;
+          color: #79838c;
+          background-color: transparent;
+        }
+
+        .brackets {
+          color: #2f343a;
+          font-weight: bold;
+          margin: 0 10px;
+        }
+
+        .dynamic-text-wrapper {
+          position: relative;
+          height: 24px;
+          overflow: hidden;
+          width: 420px;
+          display: flex;
+          justify-content: center;
+        }
+
+        .dynamic-text {
+          position: absolute;
+          width: 100%;
+          text-align: center;
+          animation: slideUp 12s infinite;
+        }
+
+        .dynamic-text span {
+          display: block;
+          height: 24px;
+          line-height: 24px;
+          color: #2f343a;
+        }
+
+        @keyframes slideUp {
+          0%, 20% {
+            transform: translateY(0);
+          }
+          25%, 45% {
+            transform: translateY(-24px);
+          }
+          50%, 70% {
+            transform: translateY(-48px);
+          }
+          75%, 95% {
+            transform: translateY(-72px);
+          }
+          100% {
+            transform: translateY(-96px);
+          }
+        }
+      </style>
+
+      <div class="window">
+        <!-- macOS Window Dots -->
+        <div class="header">
+          <div class="dot red"></div>
+          <div class="dot yellow"></div>
+          <div class="dot green"></div>
+        </div>
+
+        <!-- Dynamic Text -->
+        <div class="container">
+          <div class="dynamic-text-wrapper">
+            <div class="dynamic-text">
+              <span>&#9723; Full Stack Developer | System Architect</span>
+              <span>&#9723; AI &amp; ML Engineer | Python Developer</span>
+              <span>&#9723; Web3 Architect | Smart Contract Dev</span>
+              <span>&#9723; Product Builder | Open Source Contributor</span>
+              <span>&#9723; Full Stack Developer | System Architect</span> <!-- Duplicate to seamlessly loop -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
