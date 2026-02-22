@@ -110,11 +110,11 @@
         <div class="container">
           <div class="dynamic-text-wrapper">
             <div class="dynamic-text">
-              <span>&#9723; Full Stack Developer | System Architect</span>
-              <span>&#9723; AI &amp; ML Engineer | Python Developer</span>
-              <span>&#9723; Web3 Architect | Smart Contract Dev</span>
-              <span>&#9723; Product Builder | Open Source Contributor</span>
-              <span>&#9723; Full Stack Developer | System Architect</span> <!-- Duplicate to seamlessly loop -->
+              <span>Full Stack Developer | System Architect</span>
+              <span>AI &amp; ML Engineer | Python Developer</span>
+              <span>Web3 Architect | Smart Contract Dev</span>
+              <span>Product Builder | Open Source Contributor</span>
+              <span>Full Stack Developer | System Architect</span> <!-- Duplicate to seamlessly loop -->
             </div>
           </div>
         </div>

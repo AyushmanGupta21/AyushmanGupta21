@@ -5,7 +5,7 @@
 
 <!-- About Section -->
 <div align="center">
-  <h2>🧠 About Me</h2>
+  <br/>
   <img src="assets/dynamic-roles.svg" alt="Dynamic Roles" />
   <p>
     <img src="https://img.shields.io/badge/Background-CSE%20(AI%20%26%20ML)-22C55E?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Background"/>
