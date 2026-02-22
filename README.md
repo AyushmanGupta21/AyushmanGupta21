@@ -110,7 +110,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [WebLy](https://github.com/AyushmanGupta21/WebLy)
+### <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="24" /> [WebLy](https://github.com/AyushmanGupta21/WebLy)
 <div align="center">
 <img src="assets/WebLy_logo.jpg" alt="WebLy Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
@@ -126,7 +126,7 @@
 </td>
 <td width="50%" valign="top">
 
-### [HireNexa](https://github.com/AyushmanGupta21/HireNexa)
+### <img src="https://api.iconify.design/ph/link-bold.svg?color=%2338BDF8" width="24" /> [HireNexa](https://github.com/AyushmanGupta21/HireNexa)
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="120" height="120"/>
 </div>
@@ -147,7 +147,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [FairDeal](https://github.com/AyushmanGupta21/FairDeal)
+### <img src="https://api.iconify.design/ph/handshake-bold.svg?color=%2338BDF8" width="24" /> [FairDeal](https://github.com/AyushmanGupta21/FairDeal)
 <div align="center">
 <img src="assets/fairdeal.jpg" alt="FairDeal Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
@@ -165,7 +165,7 @@
 </td>
 <td width="50%" valign="top">
 
-### [Parallax](https://github.com/AyushmanGupta21/Parallax)
+### <img src="https://api.iconify.design/ph/planet-bold.svg?color=%2338BDF8" width="24" /> [Parallax](https://github.com/AyushmanGupta21/Parallax)
 <div align="center">
 <img src="assets/Parallax_logo.jpg" alt="Parallax Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
