@@ -129,76 +129,76 @@
 
   <!-- Flow Arrows (Connecting the nodes logically) -->
   <!-- Top Left to Top Right (AI to Sys) -->
-  <path d="M 330,120 Q 400,80 470,120" class="flow-path flow-gradient-1" marker-end="url(#arrow1)" />
+  <path d="M 335,128 Q 400,80 465,128" class="flow-path flow-gradient-1" marker-end="url(#arrow1)" />
   
   <!-- Top Right to Bottom Right (Sys to Projects) -->
-  <path d="M 610,195 Q 670,280 610,365" class="flow-path flow-gradient-2" marker-end="url(#arrow2)" />
+  <path d="M 613,200 Q 663,280 613,360" class="flow-path flow-gradient-2" marker-end="url(#arrow2)" />
   
   <!-- Bottom Right to Bottom Left (Projects to Python) -->
-  <path d="M 470,440 Q 400,480 330,440" class="flow-path flow-gradient-3" marker-end="url(#arrow3)" />
+  <path d="M 465,432 Q 400,480 335,432" class="flow-path flow-gradient-3" marker-end="url(#arrow3)" />
   
   <!-- Bottom Left to Top Left (Python to AI) -->
-  <path d="M 190,365 Q 130,280 190,195" class="flow-path flow-gradient-4" marker-end="url(#arrow4)" />
+  <path d="M 188,360 Q 138,280 188,200" class="flow-path flow-gradient-4" marker-end="url(#arrow4)" />
 
 
   <!-- Node 1: AI Fundamentals (Top Left) -->
-  <g class="node d-box1" transform="translate(60, 60)">
-    <rect width="270" height="135" class="node-box color-ai glow-ai" />
-    <text x="25" y="48" class="font-primary emoji">&#129302;</text>
-    <text x="65" y="35" class="font-primary title">AI Fundamentals</text>
-    <text x="65" y="55" class="font-primary subtitle">Model Architecture &amp; Theory</text>
+  <g class="node d-box1" transform="translate(55, 70)">
+    <rect width="265" height="115" class="node-box color-ai glow-ai" />
+    <text x="25" y="44" class="font-primary emoji">&#129302;</text>
+    <text x="65" y="33" class="font-primary title">AI Fundamentals</text>
+    <text x="65" y="51" class="font-primary subtitle">Model Architecture &amp; Theory</text>
     
     <!-- Revealing path bullets -->
     <g class="font-primary bullet bullet-group d-b1-1">
-      <text x="65" y="80">➔ Deep Learning &amp; Transformers</text>
+      <text x="65" y="76">➔ Deep Learning &amp; Transformers</text>
     </g>
     <g class="font-primary bullet bullet-group d-b1-2">
-      <text x="65" y="100">➔ Advanced RAG Pipelines</text>
+      <text x="65" y="96">➔ Advanced RAG Pipelines</text>
     </g>
   </g>
 
   <!-- Node 2: System Thinking (Top Right) -->
-  <g class="node d-box2" transform="translate(470, 60)">
-    <rect width="270" height="135" class="node-box color-sys glow-sys" />
-    <text x="25" y="48" class="font-primary emoji">&#129488;</text>
-    <text x="65" y="35" class="font-primary title">System Thinking</text>
-    <text x="65" y="55" class="font-primary subtitle">Architecture &amp; Scale</text>
+  <g class="node d-box2" transform="translate(480, 70)">
+    <rect width="265" height="115" class="node-box color-sys glow-sys" />
+    <text x="25" y="44" class="font-primary emoji">&#129488;</text>
+    <text x="65" y="33" class="font-primary title">System Thinking</text>
+    <text x="65" y="51" class="font-primary subtitle">Architecture &amp; Scale</text>
     
     <g class="font-primary bullet bullet-group d-b2-1">
-      <text x="65" y="80">➔ Designing Scalable Backends</text>
+      <text x="65" y="76">➔ Designing Scalable Backends</text>
     </g>
     <g class="font-primary bullet bullet-group d-b2-2">
-      <text x="65" y="100">➔ Microservices &amp; Systems Opt</text>
+      <text x="65" y="96">➔ Microservices &amp; Systems Opt</text>
     </g>
   </g>
 
   <!-- Node 4: Project-Based Learning (Bottom Right) -->
-  <g class="node d-box3" transform="translate(470, 365)">
-    <rect width="270" height="135" class="node-box color-project glow-project" />
-    <text x="25" y="48" class="font-primary emoji">&#128736;</text>
-    <text x="65" y="35" class="font-primary title">Project-Based</text>
-    <text x="65" y="55" class="font-primary subtitle">Applied Real-World Engineering</text>
+  <g class="node d-box3" transform="translate(480, 375)">
+    <rect width="265" height="115" class="node-box color-project glow-project" />
+    <text x="25" y="44" class="font-primary emoji">&#128736;</text>
+    <text x="65" y="33" class="font-primary title">Project-Based</text>
+    <text x="65" y="51" class="font-primary subtitle">Applied Real-World Engineering</text>
 
     <g class="font-primary bullet bullet-group d-b3-1">
-      <text x="65" y="80">➔ Full-Stack Integration</text>
+      <text x="65" y="76">➔ Full-Stack Integration</text>
     </g>
     <g class="font-primary bullet bullet-group d-b3-2">
-      <text x="65" y="100">➔ Web3 Decentralized Tooling</text>
+      <text x="65" y="96">➔ Web3 Decentralized Tooling</text>
     </g>
   </g>
 
   <!-- Node 3: Python & Core CS (Bottom Left) -->
-  <g class="node d-box4" transform="translate(60, 365)">
-    <rect width="270" height="135" class="node-box color-python glow-python" />
-    <text x="25" y="48" class="font-primary emoji">&#128013;</text>
-    <text x="65" y="35" class="font-primary title">Python &amp; Core CS</text>
-    <text x="65" y="55" class="font-primary subtitle">Algorithms &amp; Core Logic</text>
+  <g class="node d-box4" transform="translate(55, 375)">
+    <rect width="265" height="115" class="node-box color-python glow-python" />
+    <text x="25" y="44" class="font-primary emoji">&#128013;</text>
+    <text x="65" y="33" class="font-primary title">Python &amp; Core CS</text>
+    <text x="65" y="51" class="font-primary subtitle">Algorithms &amp; Core Logic</text>
 
     <g class="font-primary bullet bullet-group d-b4-1">
-      <text x="65" y="80">➔ Advanced Data Structures</text>
+      <text x="65" y="76">➔ Advanced Data Structures</text>
     </g>
     <g class="font-primary bullet bullet-group d-b4-2">
-      <text x="65" y="100">➔ Object-Oriented Patterns</text>
+      <text x="65" y="96">➔ Object-Oriented Patterns</text>
     </g>
   </g>
 
