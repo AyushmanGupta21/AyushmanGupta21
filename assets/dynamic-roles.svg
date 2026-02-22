@@ -45,12 +45,12 @@
           justify-content: center;
           font-family: 'Fira Code', 'Courier New', monospace;
           font-size: 18px;
-          color: #79838c;
+          color: #8b949e;
           background-color: transparent;
         }
 
         .brackets {
-          color: #2f343a;
+          color: #8b949e;
           font-weight: bold;
           margin: 0 10px;
         }
@@ -75,7 +75,7 @@
           display: block;
           height: 24px;
           line-height: 24px;
-          color: #2f343a;
+          color: #e6edf3;
         }
 
         @keyframes slideUp {
