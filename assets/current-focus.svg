@@ -1,0 +1,159 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;display=swap');
+      
+      .bg { fill: #0d1117; } /* Matches GitHub dark mode */
+      
+      /* Base text settings */
+      .font-primary { font-family: 'Outfit', sans-serif; }
+      
+      .node-box {
+        fill: #161b22; 
+        stroke-width: 2;
+        rx: 12px;
+      }
+      
+      /* Colors based on existing profile theme */
+      .color-ai { stroke: #38BDF8; /* Sky Blue */ }
+      .color-sys { stroke: #6366F1; /* Indigo */ }
+      .color-python { stroke: #22C55E; /* Emerald Green */ }
+      .color-project { stroke: #eab308; /* Yellow */ }
+
+      /* Glowing drop shadows to replace mermaid simplicity */
+      .glow-ai { filter: drop-shadow(0 0 8px rgba(56, 189, 248, 0.4)); }
+      .glow-sys { filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4)); }
+      .glow-python { filter: drop-shadow(0 0 8px rgba(34, 197, 94, 0.4)); }
+      .glow-project { filter: drop-shadow(0 0 8px rgba(234, 179, 8, 0.4)); }
+      
+      /* Typography */
+      .title { font-size: 18px; font-weight: 700; fill: #e6edf3; }
+      .subtitle { font-size: 13px; font-weight: 400; fill: #8b949e; }
+      .emoji { font-size: 24px; }
+      
+      /* Center core text */
+      .core-text { font-size: 20px; font-weight: 700; fill: #ffffff; letter-spacing: 2px; }
+      .core-sub { font-size: 12px; font-weight: 600; fill: #8b949e; letter-spacing: 4px; }
+      
+      /* Animated connected arrows (The Loop) */
+      .flow-path {
+        fill: none;
+        stroke: #30363d;
+        stroke-width: 3;
+        stroke-dasharray: 8;
+        animation: dash 20s linear infinite;
+      }
+      
+      .flow-gradient-1 { stroke: url(#grad1); }
+      .flow-gradient-2 { stroke: url(#grad2); }
+      .flow-gradient-3 { stroke: url(#grad3); }
+      .flow-gradient-4 { stroke: url(#grad4); }
+
+      @keyframes dash {
+        to { stroke-dashoffset: -200; }
+      }
+      
+      /* Nodes enter animation */
+      .node { 
+        opacity: 0; 
+        animation: popIn 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards; 
+      }
+      
+      @keyframes popIn {
+        0% { transform: scale(0.9); opacity: 0; }
+        100% { transform: scale(1); opacity: 1; }
+      }
+      
+      .d-1 { animation-delay: 0.2s; }
+      .d-2 { animation-delay: 0.6s; }
+      .d-3 { animation-delay: 1.0s; }
+      .d-4 { animation-delay: 1.4s; }
+      
+    </style>
+    
+    <!-- Beautiful Gradients for Arrows -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#eab308" />
+    </linearGradient>
+    <linearGradient id="grad3" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#eab308" />
+      <stop offset="100%" stop-color="#22C55E" />
+    </linearGradient>
+    <linearGradient id="grad4" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#22C55E" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <!-- Arrowhead Markers -->
+    <marker id="arrow1" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#6366F1" />
+    </marker>
+    <marker id="arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#eab308" />
+    </marker>
+    <marker id="arrow3" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#22C55E" />
+    </marker>
+    <marker id="arrow4" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#38BDF8" />
+    </marker>
+  </defs>
+
+  <!-- Solid Background -->
+  <rect width="100%" height="100%" class="bg" rx="15"/>
+
+  <!-- Center Hub text -->
+  <text x="400" y="195" text-anchor="middle" class="font-primary core-text">THE LOOP</text>
+  <text x="400" y="215" text-anchor="middle" class="font-primary core-sub">CONTINUOUS GROWTH</text>
+
+  <!-- Flow Arrows (Connecting the nodes logically) -->
+  <!-- Top Left to Top Right (AI to Sys) -->
+  <path d="M 280,100 Q 400,60 520,100" class="flow-path flow-gradient-1" marker-end="url(#arrow1)" />
+  
+  <!-- Top Right to Bottom Right (Sys to Projects) -->
+  <path d="M 580,140 Q 640,200 580,260" class="flow-path flow-gradient-2" marker-end="url(#arrow2)" />
+  
+  <!-- Bottom Right to Bottom Left (Projects to Python) -->
+  <path d="M 520,300 Q 400,340 280,300" class="flow-path flow-gradient-3" marker-end="url(#arrow3)" />
+  
+  <!-- Bottom Left to Top Left (Python to AI) -->
+  <path d="M 220,260 Q 160,200 220,140" class="flow-path flow-gradient-4" marker-end="url(#arrow4)" />
+
+  <!-- Node 1: AI Fundamentals (Top Left) -->
+  <g class="node d-1" transform="translate(100, 60)">
+    <rect width="240" height="80" class="node-box color-ai glow-ai" />
+    <text x="25" y="48" class="font-primary emoji">&#129302;</text>
+    <text x="65" y="35" class="font-primary title">AI Fundamentals</text>
+    <text x="65" y="55" class="font-primary subtitle">Transformers, RL, Agents</text>
+  </g>
+
+  <!-- Node 2: System Thinking (Top Right) -->
+  <g class="node d-2" transform="translate(460, 60)">
+    <rect width="240" height="80" class="node-box color-sys glow-sys" />
+    <text x="25" y="48" class="font-primary emoji">&#129488;</text>
+    <text x="65" y="35" class="font-primary title">System Thinking</text>
+    <text x="65" y="55" class="font-primary subtitle">Architecture &amp; Scale</text>
+  </g>
+
+  <!-- Node 4: Project-Based Learning (Bottom Right) -->
+  <g class="node d-3" transform="translate(460, 260)">
+    <rect width="240" height="80" class="node-box color-project glow-project" />
+    <text x="25" y="48" class="font-primary emoji">&#128736;</text>
+    <text x="65" y="35" class="font-primary title">Project-Based</text>
+    <text x="65" y="55" class="font-primary subtitle">Building &amp; Breaking</text>
+  </g>
+
+  <!-- Node 3: Python & Core CS (Bottom Left) -->
+  <g class="node d-4" transform="translate(100, 260)">
+    <rect width="240" height="80" class="node-box color-python glow-python" />
+    <text x="25" y="48" class="font-primary emoji">&#128013;</text>
+    <text x="65" y="35" class="font-primary title">Python &amp; Core CS</text>
+    <text x="65" y="55" class="font-primary subtitle">Algorithms &amp; Logic</text>
+  </g>
+
+</svg>

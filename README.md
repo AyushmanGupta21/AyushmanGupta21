@@ -254,19 +254,9 @@
 
 ## 🎯 Current Focus
 
-```mermaid
-graph LR
-    A[🤖 AI Fundamentals] --> B[🧠 System Thinking]
-    B --> C[🐍 Python & Core CS]
-    C --> D[🛠️ Project-Based Learning]
-    D --> A
-
-    style A fill:#0EA5E9,stroke:#38BDF8,stroke-width:3px,color:#ffffff
-    style B fill:#6366F1,stroke:#818CF8,stroke-width:3px,color:#ffffff
-    style C fill:#22C55E,stroke:#4ADE80,stroke-width:3px,color:#ffffff
-    style D fill:#2563EB,stroke:#3B82F6,stroke-width:3px,color:#ffffff
-
-```
+<div align="center">
+  <img src="assets/current-focus.svg" width="800" alt="Current Focus Learning Loop" />
+</div>
 
 ---
 
