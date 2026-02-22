@@ -46,8 +46,10 @@
 
 <div align="center">
   <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="28" style="vertical-align: -5px;" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=38BDF8&vCenter=true&width=400&lines=Full+Stack+%26+Product+Engineering" alt="Full Stack & Product Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=38BDF8&vCenter=true&width=500&duration=3000&pause=2000&lines=Full+Stack+%26+Product+Engineering" alt="Full Stack & Product Engineering" />
 </div>
+
+<hr />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="margin: 0 10px;" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 10px;" />
@@ -67,8 +69,10 @@
 
 <div align="center">
   <img src="https://api.iconify.design/ph/brain-bold.svg?color=%2322C55E" width="28" style="vertical-align: -5px;" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=22C55E&vCenter=true&width=330&lines=AI%2C+ML+%26+Intelligent+Systems" alt="AI, ML & Intelligent Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=22C55E&vCenter=true&width=500&duration=3000&pause=2500&lines=AI%2C+ML+%26+Intelligent+Systems" alt="AI, ML & Intelligent Systems" />
 </div>
+
+<hr />
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" style="margin: 0 10px;"/>
@@ -82,8 +86,10 @@
 
 <div align="center">
   <img src="https://api.iconify.design/ph/hexagon-bold.svg?color=%236366F1" width="28" style="vertical-align: -5px;" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=6366F1&vCenter=true&width=380&lines=Web3+%26+Blockchain+Architecture" alt="Web3 & Blockchain Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=6366F1&vCenter=true&width=500&duration=3000&pause=2500&lines=Web3+%26+Blockchain+Architecture" alt="Web3 & Blockchain Architecture" />
 </div>
+
+<hr />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" style="margin: 0 10px;" />
