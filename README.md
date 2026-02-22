@@ -21,7 +21,7 @@
 
 ---
 
-## What Drives Me
+## <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%2338BDF8" width="28" /> What Drives Me
 
 <div align="center">
   <img src="assets/about-me.svg" width="900" alt="About Me Code" />
@@ -29,7 +29,7 @@
 
 ---
 
-## What I Do
+## <img src="https://api.iconify.design/ph/code-block-bold.svg?color=%2338BDF8" width="28" /> What I Do
 
 <div align="center">
   <img src="assets/tech-universe.svg" width="900" alt="Tech Universe" />
@@ -38,13 +38,13 @@
 
 ---
 
-## Tech Arsenal
+## <img src="https://api.iconify.design/ph/cpu-bold.svg?color=%2338BDF8" width="28" /> Tech Arsenal
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### Full Stack & Product Engineering
+### <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="24" /> Full Stack & Product Engineering
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
@@ -65,7 +65,7 @@
 
 <br/>
 
-### AI, ML & Intelligent Systems
+### <img src="https://api.iconify.design/ph/brain-bold.svg?color=%2322C55E" width="24" /> AI, ML & Intelligent Systems
 
 <div align="center">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 10px;"/>
@@ -79,7 +79,7 @@
 
 <br/>
 
-### Web3 & Blockchain Architecture
+### <img src="https://api.iconify.design/ph/hexagon-bold.svg?color=%236366F1" width="24" /> Web3 & Blockchain Architecture
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" />
@@ -102,7 +102,7 @@
 
 ---
 
-## Featured Projects - Built With Passion
+## <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=%23EAB308" width="28" /> Featured Projects - Built With Passion
 
 <div align="center">
 
@@ -190,7 +190,7 @@
 
 ---
 
-## GitHub Analytics
+## <img src="https://api.iconify.design/ph/chart-bar-bold.svg?color=%2338BDF8" width="28" /> GitHub Analytics
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=AyushmanGupta21&theme=neon&hide_border=false" />
@@ -208,21 +208,21 @@
 
 ---
 
-## Connect & Follow My Journey
+## <img src="https://api.iconify.design/ph/link-bold.svg?color=%2338BDF8" width="28" /> Connect & Follow My Journey
 
 <div align="center">
   
-### Social Media
+### <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%23e6edf3" width="24" /> Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushmangupta21/)
 
-### Let's Collaborate
+### <img src="https://api.iconify.design/ph/envelope-simple-bold.svg?color=%23e6edf3" width="24" /> Let's Collaborate
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaayushman176@gmail.com)
 
 </div>
 
 ---
 
-## Content & Learning
+## <img src="https://api.iconify.design/ph/book-open-text-bold.svg?color=%2338BDF8" width="28" /> Content & Learning
 
 <div align="center">
   <table>
@@ -252,7 +252,7 @@
 
 ---
 
-## Current Focus
+## <img src="https://api.iconify.design/ph/crosshair-bold.svg?color=%2338BDF8" width="28" /> Current Focus
 
 <div align="center">
   <img src="assets/current-focus.svg" width="800" alt="Current Focus Learning Loop" />
@@ -260,7 +260,7 @@
 
 ---
 
-## Philosophy
+## <img src="https://api.iconify.design/ph/lightbulb-filament-bold.svg?color=%23EAB308" width="28" /> Philosophy
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Good%20systems%20are%20not%20about%20doing%20more%2C%20but%20about%20deciding%20what%20to%20keep%20and%20what%20to%20replace.&author=Ayushman%20Gupta&border=true" alt="Philosophy Quote"/>
@@ -278,7 +278,7 @@
   />
 
   
-  ### Ready to build something amazing together?
+  ### <img src="https://api.iconify.design/ph/rocket-bold.svg?color=%2338BDF8" width="24" /> Ready to build something amazing together?
   
   <img 
   src="https://komarev.com/ghpvc/?username=AyushmanGupta21&label=Profile%20Views&color=0EA5E9&style=for-the-badge"
@@ -286,6 +286,6 @@
 />
 
   
-  **Star my repositories if you find them helpful!!**
+  **<img src="https://api.iconify.design/ph/star-bold.svg?color=%23EAB308" width="20" /> Star my repositories if you find them helpful!!**
   
 </div>
