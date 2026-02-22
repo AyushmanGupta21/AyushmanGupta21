@@ -144,7 +144,9 @@
   <!-- Node 1: AI Fundamentals (Top Left) -->
   <g class="node d-box1" transform="translate(55, 70)">
     <rect width="265" height="115" class="node-box color-ai glow-ai" />
-    <text x="25" y="44" class="font-primary emoji">&#129302;</text>
+    <g transform="translate(25, 25)">
+      <path fill="#38BDF8" d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-1H1a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2zM8.5 13a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm7 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z" />
+    </g>
     <text x="65" y="33" class="font-primary title">AI Fundamentals</text>
     <text x="65" y="51" class="font-primary subtitle">Model Architecture &amp; Theory</text>
     
@@ -160,8 +162,10 @@
   <!-- Node 2: System Thinking (Top Right) -->
   <g class="node d-box2" transform="translate(480, 70)">
     <rect width="265" height="115" class="node-box color-sys glow-sys" />
-    <text x="25" y="44" class="font-primary emoji">&#129488;</text>
-    <text x="65" y="33" class="font-primary title">System Thinking</text>
+    <g transform="translate(25, 25)">
+      <path fill="#6366F1" d="M22 17H2v-2h20v2zm0-6H2V9h20v2zm0-6H2V3h20v2z" />
+    </g>
+    <text x="65" y="33" class="font-primary title">System Architecture</text>
     <text x="65" y="51" class="font-primary subtitle">Architecture &amp; Scale</text>
     
     <g class="font-primary bullet bullet-group d-b2-1">
@@ -175,8 +179,10 @@
   <!-- Node 4: Project-Based Learning (Bottom Right) -->
   <g class="node d-box3" transform="translate(480, 375)">
     <rect width="265" height="115" class="node-box color-project glow-project" />
-    <text x="25" y="44" class="font-primary emoji">&#128736;</text>
-    <text x="65" y="33" class="font-primary title">Project-Based</text>
+    <g transform="translate(25, 25)">
+      <path fill="#eab308" d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5l8 2.5z" />
+    </g>
+    <text x="65" y="33" class="font-primary title">Applied Engineering</text>
     <text x="65" y="51" class="font-primary subtitle">Applied Real-World Engineering</text>
 
     <g class="font-primary bullet bullet-group d-b3-1">
@@ -187,18 +193,20 @@
     </g>
   </g>
 
-  <!-- Node 3: Python & Core CS (Bottom Left) -->
+  <!-- Node 3: Data Engineering (Bottom Left) -->
   <g class="node d-box4" transform="translate(55, 375)">
     <rect width="265" height="115" class="node-box color-python glow-python" />
-    <text x="25" y="44" class="font-primary emoji">&#128013;</text>
-    <text x="65" y="33" class="font-primary title">Python &amp; Core CS</text>
-    <text x="65" y="51" class="font-primary subtitle">Algorithms &amp; Core Logic</text>
+    <g transform="translate(25, 25)">
+      <path fill="#22C55E" d="M12 2C6.48 2 2 4.02 2 6.5s4.48 4.5 10 4.5 10-2.02 10-4.5S17.52 2 12 2zm0 8.5c-4.43 0-8.2-1.54-9.64-3.79C3.6 8.54 7.4 10 12 10s8.4-1.46 9.64-3.29C20.2 8.96 16.43 10.5 12 10.5zM2 12.44C3.6 14.63 7.4 16 12 16s8.4-1.37 9.64-3.56c-.02.43-.17.84-.44 1.18C19.78 15.65 16.22 17 12 17s-7.78-1.35-9.2-3.38c-.27-.34-.42-.75-.44-1.18zM2 17.5C3.6 19.69 7.4 21 12 21s8.4-1.31 9.64-3.5c-.02.42-.17.81-.44 1.15C19.78 20.68 16.22 22 12 22s-7.78-1.32-9.2-3.35c-.27-.34-.42-.73-.44-1.15z" />
+    </g>
+    <text x="65" y="33" class="font-primary title">Data Engineering</text>
+    <text x="65" y="51" class="font-primary subtitle">ETL &amp; Big Data Pipelines</text>
 
     <g class="font-primary bullet bullet-group d-b4-1">
-      <text x="65" y="76">➔ Advanced Data Structures</text>
+      <text x="65" y="76">➔ Processing High-Volume Data</text>
     </g>
     <g class="font-primary bullet bullet-group d-b4-2">
-      <text x="65" y="96">➔ Object-Oriented Patterns</text>
+      <text x="65" y="96">➔ Automating Ingestion Flows</text>
     </g>
   </g>
 
