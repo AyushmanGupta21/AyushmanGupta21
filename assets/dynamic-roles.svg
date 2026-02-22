@@ -59,7 +59,7 @@
           position: relative;
           height: 24px;
           overflow: hidden;
-          width: 420px;
+          width: 650px;
           display: flex;
           justify-content: center;
         }
@@ -76,6 +76,7 @@
           height: 24px;
           line-height: 24px;
           color: #e6edf3;
+          white-space: nowrap;
         }
 
         @keyframes slideUp {
