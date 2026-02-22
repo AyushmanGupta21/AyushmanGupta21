@@ -44,7 +44,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="24" /> Full Stack & Product Engineering
+## <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="28" /> <span style="color: #38BDF8;">Full Stack & Product Engineering</span>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="margin: 0 10px;" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 10px;" />
@@ -62,7 +62,7 @@
 
 <br/><br/>
 
-### <img src="https://api.iconify.design/ph/brain-bold.svg?color=%2322C55E" width="24" /> AI, ML & Intelligent Systems
+## <img src="https://api.iconify.design/ph/brain-bold.svg?color=%2322C55E" width="28" /> <span style="color: #22C55E;">AI, ML & Intelligent Systems</span>
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" style="margin: 0 10px;"/>
@@ -74,7 +74,7 @@
 
 <br/><br/>
 
-### <img src="https://api.iconify.design/ph/hexagon-bold.svg?color=%236366F1" width="24" /> Web3 & Blockchain Architecture
+## <img src="https://api.iconify.design/ph/hexagon-bold.svg?color=%236366F1" width="28" /> <span style="color: #6366F1;">Web3 & Blockchain Architecture</span>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" style="margin: 0 10px;" />
