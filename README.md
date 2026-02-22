@@ -46,13 +46,11 @@
 
 ### <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="24" /> Full Stack & Product Engineering
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="margin: 0 10px;" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 10px;" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" style="margin: 0 10px;" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" style="margin: 0 10px;" />
 
 <br/><br/>
 
@@ -61,13 +59,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-</div>
 
-<br/>
+<br/><br/>
 
 ### <img src="https://api.iconify.design/ph/brain-bold.svg?color=%2322C55E" width="24" /> AI, ML & Intelligent Systems
 
-<div align="center">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" style="margin: 0 10px;"/>
 
@@ -75,17 +71,15 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-</div>
 
-<br/>
+<br/><br/>
 
 ### <img src="https://api.iconify.design/ph/hexagon-bold.svg?color=%236366F1" width="24" /> Web3 & Blockchain Architecture
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="65" height="65" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="65" height="65" style="margin: 0 10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="65" height="65" style="margin: 0 10px;" />
 
 <br/><br/>
 
@@ -94,11 +88,12 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Soroban](https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=stellar&logoColor=white)
-</div>
 
-<br/>
+<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+</div>
 
 ---
 
@@ -126,7 +121,7 @@
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/ph/link-bold.svg?color=%2338BDF8" width="24" /> [HireNexa](https://github.com/AyushmanGupta21/HireNexa)
+### <img src="https://api.iconify.design/ph/link-bold.svg?color=%2322C55E" width="24" /> [HireNexa](https://github.com/AyushmanGupta21/HireNexa)
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="120" height="120"/>
 </div>
@@ -147,7 +142,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/ph/handshake-bold.svg?color=%2338BDF8" width="24" /> [FairDeal](https://github.com/AyushmanGupta21/FairDeal)
+### <img src="https://api.iconify.design/ph/handshake-bold.svg?color=%236366F1" width="24" /> [FairDeal](https://github.com/AyushmanGupta21/FairDeal)
 <div align="center">
 <img src="assets/fairdeal.jpg" alt="FairDeal Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
@@ -165,7 +160,7 @@
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/ph/planet-bold.svg?color=%2338BDF8" width="24" /> [Parallax](https://github.com/AyushmanGupta21/Parallax)
+### <img src="https://api.iconify.design/ph/planet-bold.svg?color=%2306B6D4" width="24" /> [Parallax](https://github.com/AyushmanGupta21/Parallax)
 <div align="center">
 <img src="assets/Parallax_logo.jpg" alt="Parallax Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
