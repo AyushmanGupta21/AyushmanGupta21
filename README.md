@@ -131,6 +131,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="120" height="120"/>
 </div>
 
+<br/>
+
 **Decentralized recruitment on Celo**
 
 • AI converts GitHub activity to Portfolio NFTs  
@@ -150,6 +152,8 @@
 <img src="assets/fairdeal.jpg" alt="FairDeal Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
 
+<br/>
+
 **Blockchain escrow platform**
 
 • Stellar smart contracts & IPFS file storage  
@@ -165,6 +169,8 @@
 <div align="center">
 <img src="assets/Parallax_logo.jpg" alt="Parallax Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
+
+<br/>
 
 **Universal Stellar Oracle**
 
