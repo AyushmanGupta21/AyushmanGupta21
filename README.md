@@ -21,7 +21,7 @@
 
 ---
 
-## 💫 What Drives Me
+## What Drives Me
 
 <div align="center">
   <img src="assets/about-me.svg" width="900" alt="About Me Code" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 <div align="center">
   <img src="assets/tech-universe.svg" width="900" alt="Tech Universe" />
@@ -38,13 +38,13 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### 🌐 Full Stack & Product Engineering
+### Full Stack & Product Engineering
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
@@ -65,7 +65,7 @@
 
 <br/>
 
-### 🤖 AI, ML & Intelligent Systems
+### AI, ML & Intelligent Systems
 
 <div align="center">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 10px;"/>
@@ -79,7 +79,7 @@
 
 <br/>
 
-### 🔐 Web3 & Blockchain Architecture
+### Web3 & Blockchain Architecture
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" />
@@ -102,7 +102,7 @@
 
 ---
 
-## 🔥 Featured Projects - Built With Passion
+## Featured Projects - Built With Passion
 
 <div align="center">
 
@@ -110,7 +110,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [WebLy](https://github.com/AyushmanGupta21/WebLy)
+### [WebLy](https://github.com/AyushmanGupta21/WebLy)
 <div align="center">
 <img src="assets/WebLy_logo.jpg" alt="WebLy Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
@@ -126,7 +126,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔗 [HireNexa](https://github.com/AyushmanGupta21/HireNexa)
+### [HireNexa](https://github.com/AyushmanGupta21/HireNexa)
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="120" height="120"/>
 </div>
@@ -147,7 +147,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 [FairDeal](https://github.com/AyushmanGupta21/FairDeal)
+### [FairDeal](https://github.com/AyushmanGupta21/FairDeal)
 <div align="center">
 <img src="assets/fairdeal.jpg" alt="FairDeal Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
@@ -165,7 +165,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🪐 [Parallax](https://github.com/AyushmanGupta21/Parallax)
+### [Parallax](https://github.com/AyushmanGupta21/Parallax)
 <div align="center">
 <img src="assets/Parallax_logo.jpg" alt="Parallax Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
@@ -190,7 +190,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=AyushmanGupta21&theme=neon&hide_border=false" />
@@ -208,21 +208,21 @@
 
 ---
 
-## 🌐 Connect & Follow My Journey
+## Connect & Follow My Journey
 
 <div align="center">
   
-### 📱 Social Media
+### Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushmangupta21/)
 
-### 📧 Let's Collaborate
+### Let's Collaborate
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaayushman176@gmail.com)
 
 </div>
 
 ---
 
-## 📚 Content & Learning
+## Content & Learning
 
 <div align="center">
   <table>
@@ -252,7 +252,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
   <img src="assets/current-focus.svg" width="800" alt="Current Focus Learning Loop" />
@@ -260,7 +260,7 @@
 
 ---
 
-## 💡 Philosophy
+## Philosophy
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Good%20systems%20are%20not%20about%20doing%20more%2C%20but%20about%20deciding%20what%20to%20keep%20and%20what%20to%20replace.&author=Ayushman%20Gupta&border=true" alt="Philosophy Quote"/>
@@ -278,7 +278,7 @@
   />
 
   
-  ### 🚀 Ready to build something amazing together?
+  ### Ready to build something amazing together?
   
   <img 
   src="https://komarev.com/ghpvc/?username=AyushmanGupta21&label=Profile%20Views&color=0EA5E9&style=for-the-badge"
@@ -286,6 +286,6 @@
 />
 
   
-  **⭐ Star my repositories if you find them helpful!!**
+  **Star my repositories if you find them helpful!!**
   
 </div>
