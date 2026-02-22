@@ -144,7 +144,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="24" /> [ <span style="color: #38BDF8;">WebLy</span> ](https://github.com/AyushmanGupta21/WebLy)
+### <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="24" style="vertical-align: middle;" /> <a href="https://github.com/AyushmanGupta21/WebLy"><img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=22&color=38BDF8&vCenter=true&width=100&lines=WebLy&repeat=false" alt="WebLy" style="vertical-align: middle;" /></a>
 <div align="center">
 <img src="assets/WebLy_logo.jpg" alt="WebLy Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
@@ -160,7 +160,7 @@
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/ph/link-bold.svg?color=%2322C55E" width="24" /> [ <span style="color: #22C55E;">HireNexa</span> ](https://github.com/AyushmanGupta21/HireNexa)
+### <img src="https://api.iconify.design/ph/link-bold.svg?color=%2322C55E" width="24" style="vertical-align: middle;" /> <a href="https://github.com/AyushmanGupta21/HireNexa"><img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=22&color=22C55E&vCenter=true&width=120&lines=HireNexa&repeat=false" alt="HireNexa" style="vertical-align: middle;" /></a>
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="120" height="120"/>
 </div>
@@ -181,7 +181,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/ph/handshake-bold.svg?color=%236366F1" width="24" /> [ <span style="color: #6366F1;">FairDeal</span> ](https://github.com/AyushmanGupta21/FairDeal)
+### <img src="https://api.iconify.design/ph/handshake-bold.svg?color=%236366F1" width="24" style="vertical-align: middle;" /> <a href="https://github.com/AyushmanGupta21/FairDeal"><img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=22&color=6366F1&vCenter=true&width=120&lines=FairDeal&repeat=false" alt="FairDeal" style="vertical-align: middle;" /></a>
 <div align="center">
 <img src="assets/fairdeal.jpg" alt="FairDeal Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
@@ -199,7 +199,7 @@
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/ph/planet-bold.svg?color=%2306B6D4" width="24" /> [ <span style="color: #06B6D4;">Parallax</span> ](https://github.com/AyushmanGupta21/Parallax)
+### <img src="https://api.iconify.design/ph/planet-bold.svg?color=%2306B6D4" width="24" style="vertical-align: middle;" /> <a href="https://github.com/AyushmanGupta21/Parallax"><img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=22&color=06B6D4&vCenter=true&width=120&lines=Parallax&repeat=false" alt="Parallax" style="vertical-align: middle;" /></a>
 <div align="center">
 <img src="assets/Parallax_logo.jpg" alt="Parallax Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
