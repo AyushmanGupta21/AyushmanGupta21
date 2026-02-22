@@ -1,4 +1,4 @@
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="560" viewBox="0 0 800 560" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;display=swap');
@@ -29,6 +29,7 @@
       /* Typography */
       .title { font-size: 18px; font-weight: 700; fill: #e6edf3; }
       .subtitle { font-size: 13px; font-weight: 400; fill: #8b949e; }
+      .bullet { font-size: 13px; font-weight: 400; fill: #8b949e; }
       .emoji { font-size: 24px; }
       
       /* Center core text */
@@ -64,10 +65,31 @@
         100% { transform: scale(1); opacity: 1; }
       }
       
-      .d-1 { animation-delay: 0.2s; }
-      .d-2 { animation-delay: 0.6s; }
-      .d-3 { animation-delay: 1.0s; }
-      .d-4 { animation-delay: 1.4s; }
+      /* Sub-bullet revelation points simulating sequential learning */
+      .bullet-group {
+        opacity: 0;
+        animation: fadeIn 0.4s forwards;
+      }
+
+      @keyframes fadeIn {
+        to { opacity: 1; }
+      }
+      
+      /* Sequence Timing (Boxes) */
+      .d-box1 { animation-delay: 0.2s; }
+      .d-box2 { animation-delay: 1.2s; }
+      .d-box3 { animation-delay: 2.2s; }
+      .d-box4 { animation-delay: 3.2s; }
+
+      /* Sequence Timing (Bullets) */
+      .d-b1-1 { animation-delay: 0.5s; }
+      .d-b1-2 { animation-delay: 0.8s; }
+      .d-b2-1 { animation-delay: 1.5s; }
+      .d-b2-2 { animation-delay: 1.8s; }
+      .d-b3-1 { animation-delay: 2.5s; }
+      .d-b3-2 { animation-delay: 2.8s; }
+      .d-b4-1 { animation-delay: 3.5s; }
+      .d-b4-2 { animation-delay: 3.8s; }      
       
     </style>
     
@@ -108,52 +130,82 @@
   <rect width="100%" height="100%" class="bg" rx="15"/>
 
   <!-- Center Hub text -->
-  <text x="400" y="195" text-anchor="middle" class="font-primary core-text">THE LOOP</text>
-  <text x="400" y="215" text-anchor="middle" class="font-primary core-sub">CONTINUOUS GROWTH</text>
+  <text x="400" y="275" text-anchor="middle" class="font-primary core-text">THE LOOP</text>
+  <text x="400" y="295" text-anchor="middle" class="font-primary core-sub">CONTINUOUS GROWTH</text>
 
   <!-- Flow Arrows (Connecting the nodes logically) -->
   <!-- Top Left to Top Right (AI to Sys) -->
-  <path d="M 280,100 Q 400,60 520,100" class="flow-path flow-gradient-1" marker-end="url(#arrow1)" />
+  <path d="M 330,120 Q 400,80 470,120" class="flow-path flow-gradient-1" marker-end="url(#arrow1)" />
   
   <!-- Top Right to Bottom Right (Sys to Projects) -->
-  <path d="M 580,140 Q 640,200 580,260" class="flow-path flow-gradient-2" marker-end="url(#arrow2)" />
+  <path d="M 610,195 Q 670,280 610,365" class="flow-path flow-gradient-2" marker-end="url(#arrow2)" />
   
   <!-- Bottom Right to Bottom Left (Projects to Python) -->
-  <path d="M 520,300 Q 400,340 280,300" class="flow-path flow-gradient-3" marker-end="url(#arrow3)" />
+  <path d="M 470,440 Q 400,480 330,440" class="flow-path flow-gradient-3" marker-end="url(#arrow3)" />
   
   <!-- Bottom Left to Top Left (Python to AI) -->
-  <path d="M 220,260 Q 160,200 220,140" class="flow-path flow-gradient-4" marker-end="url(#arrow4)" />
+  <path d="M 190,365 Q 130,280 190,195" class="flow-path flow-gradient-4" marker-end="url(#arrow4)" />
+
 
   <!-- Node 1: AI Fundamentals (Top Left) -->
-  <g class="node d-1" transform="translate(100, 60)">
-    <rect width="240" height="80" class="node-box color-ai glow-ai" />
+  <g class="node d-box1" transform="translate(60, 60)">
+    <rect width="270" height="135" class="node-box color-ai glow-ai" />
     <text x="25" y="48" class="font-primary emoji">&#129302;</text>
     <text x="65" y="35" class="font-primary title">AI Fundamentals</text>
-    <text x="65" y="55" class="font-primary subtitle">Transformers, RL, Agents</text>
+    <text x="65" y="55" class="font-primary subtitle">Model Architecture &amp; Theory</text>
+    
+    <!-- Revealing path bullets -->
+    <g class="font-primary bullet bullet-group d-b1-1">
+      <text x="65" y="80">➔ Deep Learning &amp; Transformers</text>
+    </g>
+    <g class="font-primary bullet bullet-group d-b1-2">
+      <text x="65" y="100">➔ Advanced RAG Pipelines</text>
+    </g>
   </g>
 
   <!-- Node 2: System Thinking (Top Right) -->
-  <g class="node d-2" transform="translate(460, 60)">
-    <rect width="240" height="80" class="node-box color-sys glow-sys" />
+  <g class="node d-box2" transform="translate(470, 60)">
+    <rect width="270" height="135" class="node-box color-sys glow-sys" />
     <text x="25" y="48" class="font-primary emoji">&#129488;</text>
     <text x="65" y="35" class="font-primary title">System Thinking</text>
     <text x="65" y="55" class="font-primary subtitle">Architecture &amp; Scale</text>
+    
+    <g class="font-primary bullet bullet-group d-b2-1">
+      <text x="65" y="80">➔ Designing Scalable Backends</text>
+    </g>
+    <g class="font-primary bullet bullet-group d-b2-2">
+      <text x="65" y="100">➔ Microservices &amp; Systems Opt</text>
+    </g>
   </g>
 
   <!-- Node 4: Project-Based Learning (Bottom Right) -->
-  <g class="node d-3" transform="translate(460, 260)">
-    <rect width="240" height="80" class="node-box color-project glow-project" />
+  <g class="node d-box3" transform="translate(470, 365)">
+    <rect width="270" height="135" class="node-box color-project glow-project" />
     <text x="25" y="48" class="font-primary emoji">&#128736;</text>
     <text x="65" y="35" class="font-primary title">Project-Based</text>
-    <text x="65" y="55" class="font-primary subtitle">Building &amp; Breaking</text>
+    <text x="65" y="55" class="font-primary subtitle">Applied Real-World Engineering</text>
+
+    <g class="font-primary bullet bullet-group d-b3-1">
+      <text x="65" y="80">➔ Full-Stack Integration</text>
+    </g>
+    <g class="font-primary bullet bullet-group d-b3-2">
+      <text x="65" y="100">➔ Web3 Decentralized Tooling</text>
+    </g>
   </g>
 
   <!-- Node 3: Python & Core CS (Bottom Left) -->
-  <g class="node d-4" transform="translate(100, 260)">
-    <rect width="240" height="80" class="node-box color-python glow-python" />
+  <g class="node d-box4" transform="translate(60, 365)">
+    <rect width="270" height="135" class="node-box color-python glow-python" />
     <text x="25" y="48" class="font-primary emoji">&#128013;</text>
     <text x="65" y="35" class="font-primary title">Python &amp; Core CS</text>
-    <text x="65" y="55" class="font-primary subtitle">Algorithms &amp; Logic</text>
+    <text x="65" y="55" class="font-primary subtitle">Algorithms &amp; Core Logic</text>
+
+    <g class="font-primary bullet bullet-group d-b4-1">
+      <text x="65" y="80">➔ Advanced Data Structures</text>
+    </g>
+    <g class="font-primary bullet bullet-group d-b4-2">
+      <text x="65" y="100">➔ Object-Oriented Patterns</text>
+    </g>
   </g>
 
 </svg>
