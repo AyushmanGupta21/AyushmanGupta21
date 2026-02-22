@@ -45,7 +45,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" style="border: none;">
         <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="28" style="vertical-align: middle;" />
@@ -76,7 +76,7 @@
 <br/><br/>
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" style="border: none;">
         <img src="https://api.iconify.design/ph/brain-bold.svg?color=%2322C55E" width="28" style="vertical-align: middle;" />
@@ -101,7 +101,7 @@
 <br/><br/>
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" style="border: none;">
         <img src="https://api.iconify.design/ph/hexagon-bold.svg?color=%236366F1" width="28" style="vertical-align: middle;" />
@@ -259,7 +259,7 @@
 ## <img src="https://api.iconify.design/ph/book-open-text-bold.svg?color=%2338BDF8" width="28" /> Content & Learning
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/64/000000/artificial-intelligence.png" alt="AI Learning"/>
