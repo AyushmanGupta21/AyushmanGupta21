@@ -1,0 +1,144 @@
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+    <![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap');
+      
+      .bg { fill: #0d1117; }
+      .monitor-bezel { fill: #1e1e1e; stroke: #333333; stroke-width: 4; rx: 16; }
+      .monitor-screen { fill: #1e1e1e; }
+      .monitor-stand { fill: #333333; }
+      .monitor-base { fill: #1e1e1e; }
+      
+      .window-bg { 
+        fill: #1e1e1e; 
+        stroke: #333333; 
+        stroke-width: 1; 
+        rx: 6; 
+        opacity: 0; 
+        animation: pop-in 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) 1.5s forwards; 
+      }
+      .title-bar { 
+        fill: #2d2d2d; 
+        opacity: 0; 
+        animation: pop-in 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) 1.5s forwards; 
+      }
+      .window-controls { 
+        opacity: 0; 
+        animation: fade-in 0.5s ease-out 2s forwards; 
+      }
+      
+      @keyframes pop-in {
+        0% { transform: scale(0.8); opacity: 0; }
+        100% { transform: scale(1); opacity: 1; }
+      }
+      @keyframes fade-in { to { opacity: 1; } }
+
+      .loader-group { animation: fade-out 0.5s ease-out 1.4s forwards; }
+      .spinner { transform-origin: center; animation: spin 1s linear infinite; }
+      @keyframes spin { 100% { transform: rotate(360deg); } }
+      @keyframes fade-out { to { opacity: 0; display: none; } }
+
+      .code-font {
+        font-family: 'Fira Code', monospace;
+        font-size: 15px; 
+        fill: #d4d4d4;
+      }
+      /* VS Code Dark Theme Colors */
+      .keyword { fill: #569cd6; font-weight: 600; }  /* blue */
+      .class-name { fill: #4ec9b0; }                 /* blue-green */
+      .method { fill: #dcdcaa; }                     /* yellow-green */
+      .string { fill: #ce9178; }                     /* orange-red */
+      .number { fill: #b5cea8; }                     /* light green */
+      .comment { fill: #6a9955; font-style: italic; } /* green */
+      .variable { fill: #9cdcfe; }                   /* light blue */
+      .property { fill: #9cdcfe; }
+      .operator { fill: #d4d4d4; }
+      
+      .line { opacity: 0; animation: type-line 0.01s forwards; }
+      @keyframes type-line { to { opacity: 1; } }
+
+      .cursor-blink { 
+        animation: blink 1s infinite;
+        fill: #007acc; 
+        opacity: 0;
+      }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+      /* Animation Delays */
+      .d-0 { animation-delay: 2.2s; }
+      .d-1 { animation-delay: 2.4s; }
+      .d-2 { animation-delay: 2.6s; }
+      .d-3 { animation-delay: 2.8s; }
+      .d-4 { animation-delay: 3.0s; }
+      .d-5 { animation-delay: 3.2s; }
+      .d-6 { animation-delay: 3.4s; }
+      .d-7 { animation-delay: 3.6s; }
+      .d-8 { animation-delay: 3.8s; }
+      .d-9 { animation-delay: 4.0s; }
+      .d-10 { animation-delay: 4.2s; }
+      .d-11 { animation-delay: 4.4s; }
+      .d-12 { animation-delay: 4.6s; }
+    ]]>
+    </style>
+    
+    <clipPath id="about-me-screen-clip">
+      <rect x="25" y="25" width="750" height="430" />
+    </clipPath>
+  </defs>
+
+  <g transform="translate(50, 50)">
+    <rect x="350" y="470" width="100" height="60" class="monitor-stand" />
+    <rect x="300" y="530" width="200" height="10" class="monitor-base" />
+    <rect x="0" y="0" width="800" height="480" class="monitor-bezel" />
+    
+    <g clip-path="url(#about-me-screen-clip)">
+        <rect x="20" y="20" width="760" height="440" class="monitor-screen" />
+        
+        <g class="loader-group">
+            <text x="380" y="240" text-anchor="middle" fill="#6a9955" font-family="sans-serif" font-size="14">Initializing Python Environment...</text>
+            <circle cx="380" cy="200" r="15" fill="none" stroke="#007acc" stroke-width="3" stroke-dasharray="70 30" class="spinner" />
+        </g>
+
+        <g transform="translate(40, 40)">
+            <rect width="720" height="400" class="window-bg" transform-origin="center" />
+            <path d="M0,6 A6,6 0 0 1 6,0 L714,0 A6,6 0 0 1 720,6 L720,28 L0,28 Z" class="title-bar" transform-origin="center" />
+            
+            <g class="window-controls">
+                <circle cx="20" cy="14" r="6" fill="#ff5f56" />
+                <circle cx="40" cy="14" r="6" fill="#ffbd2e" />
+                <circle cx="60" cy="14" r="6" fill="#27c93f" />
+                <text x="360" y="19" text-anchor="middle" fill="#cccccc" font-family="sans-serif" font-size="12">ayushman.py - VS Code</text>
+            </g>
+
+            <g transform="translate(30, 60)" class="code-font">
+                <text y="0"   class="line d-0"><tspan class="keyword">class</tspan> <tspan class="class-name">AyushmanGupta</tspan>:</text>
+                
+                <text y="30"  class="line d-1">    <tspan class="keyword">def</tspan> <tspan class="method">__init__</tspan>(<tspan class="variable">self</tspan>):</text>
+                
+                <text y="60"  class="line d-2">        <tspan class="variable">self</tspan>.<tspan class="property">role</tspan> <tspan class="operator">=</tspan> <tspan class="string">"AI Systems Engineer | Developer"</tspan></text>
+                
+                <text y="90"  class="line d-3">        <tspan class="variable">self</tspan>.<tspan class="property">education</tspan> <tspan class="operator">=</tspan> <tspan class="string">"Computer Science (AI &amp; ML)"</tspan></text>
+                
+                <text y="120" class="line d-4">        <tspan class="variable">self</tspan>.<tspan class="property">mindset</tspan> <tspan class="operator">=</tspan> <tspan class="string">"Builder | Problem Solver"</tspan></text>
+                
+                <text y="150" class="line d-5">        <tspan class="variable">self</tspan>.<tspan class="property">focus</tspan> <tspan class="operator">=</tspan> [</text>
+                
+                <text y="180" class="line d-6">            <tspan class="string">"Backend Systems"</tspan>, <tspan class="string">"RAG Pipelines"</tspan>,</text>
+                
+                <text y="210" class="line d-7">            <tspan class="string">"Agentic AI"</tspan>, <tspan class="string">"Logic-based Analysis"</tspan></text>
+                
+                <text y="240" class="line d-8">        ]</text>
+
+                <text y="270" class="line d-9">    <tspan class="keyword">def</tspan> <tspan class="method">get_philosophy</tspan>(<tspan class="variable">self</tspan>):</text>
+
+                <text y="300" class="line d-10">        <tspan class="keyword">return</tspan> <tspan class="string">"If it's structured, it can be automated."</tspan></text>
+                
+                <rect x="25" y="320" width="8" height="15" class="cursor-blink" />
+                
+                <text y="360" class="line d-12"><tspan class="comment"># Running build...</tspan></text>
+            </g>
+        </g>
+    </g>
+  </g>
+</svg>

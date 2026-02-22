@@ -1,11 +1,5 @@
-<!-- Header with animated typing effect -->
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2600&pause=1800&color=38BDF8&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Ayushman+Gupta;Computer+Science+Engineer+(AI+%26+ML);AI+Systems+%7C+Problem+Solver+%7C+Builder;Learning+Deeply,+Building+Thoughtfully" alt="Typing SVG" />
-</div>
-
-<!-- Professional Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Engineering%20as%20a%20Way%20of%20Thinking%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="AYUSHMAN GUPTA" />
 </div>
 
 
@@ -28,59 +22,17 @@
 
 ## 💫 What Drives Me
 
-```python
-class AyushmanGupta:
-    def __init__(self):
-        self.background = "Computer Science (AI & ML)"
-        self.identity = "AI & Software Engineering Enthusiast"
-        self.philosophy = "Clarity before complexity"
-        self.interests = [
-            "Artificial Intelligence",
-            "System Design",
-            "Problem Solving",
-            "Game-based Learning"
-        ]
-        self.current_focus = "Building practical and explainable AI systems"
-    
-    def daily_routine(self):
-        return [
-            "📖 Learn deeply",
-            "🧠 Break problems down",
-            "🛠️ Build clean solutions",
-            "🔁 Improve & iterate"
-        ]
-    
-    def fun_fact(self):
-        return "I enjoy debugging systems more than overthinking conversations 🙂"
-```
+<div align="center">
+  <img src="assets/about-me.svg" width="900" alt="About Me Code" />
+</div>
 
 ---
 
 ## 🎯 What I Do
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/python.png" alt="Development"/>
-        <h3>🔧 Software Development</h3>
-        <p>Designing and building clean, structured programs using Python and core
-          computer science principles.</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI"/>
-        <h3>🤖 AI & Intelligent Systems</h3>
-        <p> Working on AI-driven systems such as agents, RAG pipelines, and logic-based
-          analysis with a focus on explainability.</p>
-      </td>
-      <td align="center" width="33%">        
-        <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3c144920-523a-4933-9113-1ba38bb863de" />
-        <h3>🎮 Learning by Building</h3>
-        <p>Creating project-based and game-inspired systems to understand concepts
-          deeply and make learning engaging.</p>
-      </td>
-    </tr>
-  </table>
+  <img src="assets/tech-universe.svg" width="900" alt="Tech Universe" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
@@ -89,53 +41,145 @@ class AyushmanGupta:
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+### 🌐 Full Stack & Product Engineering
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="margin: 0 10px; background-color: white; border-radius: 50%; padding: 5px;"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" style="margin: 0 10px; background-color: white; border-radius: 50%; padding: 5px;"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" style="margin: 0 10px;"/>
+
+<br/><br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 AI & ML - Generative AI
-
-![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=graphql&logoColor=white)
-![Agent Development Kit (ADK)](https://img.shields.io/badge/ADK-10B981?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-00C4B4?style=for-the-badge&logo=gradio&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=readme&logoColor=white)
-![AGentiC AI](https://img.shields.io/badge/AGentiC%20AI-F59E42?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-DC2626?style=for-the-badge&logo=robot&logoColor=white)
-
-
-### 🗄️ Databases & Storage
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-### ☁️ Cloud & DevOps (Foundational)
+<br/>
 
-![Docker](https://img.shields.io/badge/Docker-(Used)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-(Daily)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-(Version%20Control)-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-(Exploring)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-(Exploring)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-(Configs)-000000?style=for-the-badge&logo=yaml&logoColor=white)
+### 🤖 AI, ML & Intelligent Systems
 
+<div align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" style="margin: 0 10px;"/>
 
-### 🔧 Tools & Technologies (Daily Use)
+<br/><br/>
 
-![Git](https://img.shields.io/badge/Git-(Daily)-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-(Primary%20OS)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-(API%20Testing)-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-(Editor)-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-(Collaboration)-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</div>
+
+<br/>
+
+### 🔐 Web3 & Blockchain Architecture
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="65" height="65" style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="65" height="65" style="margin: 0 10px; background-color: white; border-radius: 50%; padding: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="65" height="65" style="margin: 0 10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="65" height="65" style="margin: 0 10px; object-fit: contain;"/>
+<img src="https://assets-global.website-files.com/5e2d63499121867b931dc15d/60183061da12711654af0338_Stellar-Logo.png" alt="Soroban" width="65" height="65" style="margin: 0 10px; object-fit: contain;"/>
+
+<br/><br/>
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Soroban](https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=stellar&logoColor=white)
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## 🔥 Featured Projects - Built With Passion
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [WebLy](https://github.com/AyushmanGupta21/WebLy)
+<div align="center">
+<img src="assets/WebLy_logo.jpg" alt="WebLy Logo" width="120" height="120" style="border-radius: 20px;"/>
+</div>
+
+**AI-powered website builder**
+
+• Transforms ideas to professional websites  
+• Instant Generation via plain English  
+• Fully functional & scalable outputs  
+
+`TypeScript` `Generative AI` `WebDev` `AI Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 [HireNexa](https://github.com/AyushmanGupta21/HireNexa)
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="120" height="120"/>
+</div>
+
+**Decentralized recruitment on Celo**
+
+• AI converts GitHub activity to Portfolio NFTs  
+• Military-grade encryption & on-chain verification  
+• Smart Contract automated hiring flow  
+
+`TypeScript` `Web3` `Smart Contracts` `Celo`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 [FairDeal](https://github.com/AyushmanGupta21/FairDeal)
+<div align="center">
+<img src="assets/fairdeal.jpg" alt="FairDeal Logo" width="120" height="120" style="border-radius: 20px;"/>
+</div>
+
+**Blockchain escrow platform**
+
+• Stellar smart contracts & IPFS file storage  
+• Automated payment release flow  
+• Zero platform fees, maximum trust  
+
+`TypeScript` `Blockchain` `Stellar` `IPFS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🪐 [Parallax](https://github.com/AyushmanGupta21/Parallax)
+<div align="center">
+<img src="assets/Parallax_logo.jpg" alt="Parallax Logo" width="120" height="120" style="border-radius: 20px;"/>
+</div>
+
+**Universal Stellar Oracle**
+
+• Real-time aggregated asset feeds  
+• Smart contract interactions via Soroban  
+• Seamless portfolio management  
+
+`TypeScript` `Web3` `Stellar` `Soroban`
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
