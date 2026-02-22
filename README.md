@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%2338BDF8" width="28" style="vertical-align: middle;" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=38BDF8&vCenter=true&width=800&lines=Full+Stack+%26+Product+Engineering&repeat=false" alt="Full Stack & Product Engineering" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=38BDF8&vCenter=true&width=400&lines=Full+Stack+%26+Product+Engineering&repeat=false" alt="Full Stack & Product Engineering" style="vertical-align: middle;" />
 </div>
 
 <hr />
@@ -69,7 +69,7 @@
 
 <div align="center">
   <img src="https://api.iconify.design/ph/brain-bold.svg?color=%2322C55E" width="28" style="vertical-align: middle;" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=22C55E&vCenter=true&width=800&lines=AI%2C+ML+%26+Intelligent+Systems&repeat=false" alt="AI, ML & Intelligent Systems" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=22C55E&vCenter=true&width=330&lines=AI%2C+ML+%26+Intelligent+Systems&repeat=false" alt="AI, ML & Intelligent Systems" style="vertical-align: middle;" />
 </div>
 
 <hr />
@@ -86,7 +86,7 @@
 
 <div align="center">
   <img src="https://api.iconify.design/ph/hexagon-bold.svg?color=%236366F1" width="28" style="vertical-align: middle;" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=6366F1&vCenter=true&width=800&lines=Web3+%26+Blockchain+Architecture&repeat=false" alt="Web3 & Blockchain Architecture" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=6366F1&vCenter=true&width=390&lines=Web3+%26+Blockchain+Architecture&repeat=false" alt="Web3 & Blockchain Architecture" style="vertical-align: middle;" />
 </div>
 
 <hr />
