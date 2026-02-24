@@ -289,13 +289,26 @@
 ## <img src="https://api.iconify.design/ph/link-bold.svg?color=%2338BDF8" width="28" /> Connect & Follow My Journey
 
 <div align="center">
-  
-### <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%23e6edf3" width="24" /> Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushmangupta21/)
-
-### <img src="https://api.iconify.design/ph/envelope-simple-bold.svg?color=%23e6edf3" width="24" /> Let's Collaborate
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaayushman176@gmail.com)
-
+  <table border="0" cellpadding="0" cellspacing="0" width="80%">
+    <tr>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%2338BDF8" width="28" style="vertical-align: middle; margin-right: 10px;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=22&color=38BDF8&vCenter=true&width=150&height=30&lines=Social+Media&repeat=false" alt="Social Media" style="vertical-align: middle;" />
+        <br/><br/>
+        <a href="https://www.linkedin.com/in/ayushmangupta21/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://api.iconify.design/ph/envelope-simple-bold.svg?color=%2306B6D4" width="28" style="vertical-align: middle; margin-right: 10px;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=22&color=06B6D4&vCenter=true&width=190&height=30&lines=Let%27s+Collaborate&repeat=false" alt="Let's Collaborate" style="vertical-align: middle;" />
+        <br/><br/>
+        <a href="mailto:guptaayushman176@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
