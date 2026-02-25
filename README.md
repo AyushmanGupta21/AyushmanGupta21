@@ -82,7 +82,7 @@
         <img src="https://api.iconify.design/ph/brain-bold.svg?color=%2322C55E" width="28" style="vertical-align: middle;" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=22C55E&vCenter=true&width=330&lines=AI%2C+ML+%26+Intelligent+Systems&repeat=false" alt="AI, ML & Intelligent Systems" style="vertical-align: middle;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=24&color=22C55E&vCenter=true&width=330&lines=AI%2C+ML+%26+Intelligent+Systems&repeat=false" alt="AI ML & Intelligent Systems" style="vertical-align: middle;" />
       </td>
     </tr>
   </table>
