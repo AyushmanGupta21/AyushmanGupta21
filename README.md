@@ -245,7 +245,7 @@
 </tr>
 </table>
 <div align="center">
-<img src="assets/Parallax_logo.jpg" alt="Parallax Logo" width="120" height="120" style="border-radius: 20px;"/>
+<img src="assets/parallax_logo.jpeg" alt="Parallax Logo" width="120" height="120" style="border-radius: 20px;"/>
 </div>
 
 <br/>
