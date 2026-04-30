@@ -54,15 +54,15 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" /><br/><sub>Next.js</sub></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" /><br/><sub>React</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /><br/><sub>Node.js</sub></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" /><br/><sub>TypeScript</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" /><br/><sub>PostgreSQL</sub></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="80" height="80" /><br/><b>Next.js</b></td>
+<td align="center" width="120"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br/><b>React</b></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="80" height="80" /><br/><b>Node.js</b></td>
+<td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br/><b>TypeScript</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80" height="80" /><br/><b>PostgreSQL</b></td>
 </tr>
 </table>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -73,12 +73,12 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" /><br/><sub>Python</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" /><br/><sub>Jupyter</sub></td>
+<td align="center" width="120"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" /><br/><b>Python</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="80" height="80" /><br/><b>Jupyter</b></td>
 </tr>
 </table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
@@ -89,14 +89,14 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="50" height="50" /><br/><sub>Solidity</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50" /><br/><sub>Rust</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="50" height="50" /><br/><sub>Go</sub></td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="50" height="50" /><br/><sub>IPFS</sub></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="80" height="80" /><br/><b>Solidity</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="80" height="80" /><br/><b>Rust</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="80" height="80" /><br/><b>Go</b></td>
+<td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="80" height="80" /><br/><b>IPFS</b></td>
 </tr>
 </table>
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white) ![Soroban](https://img.shields.io/badge/Soroban-000000?style=flat-square&logo=stellar&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white) ![Soroban](https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=stellar&logoColor=white)
 
 </td>
 </tr>
