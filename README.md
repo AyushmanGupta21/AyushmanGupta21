@@ -245,20 +245,33 @@
 ## <img src="https://api.iconify.design/ph/chart-bar-bold.svg?color=%2338BDF8" width="28" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AyushmanGupta21&theme=neon&hide_border=false" />
-  <br/><br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AyushmanGupta21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanGupta21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AyushmanGupta21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AyushmanGupta21&theme=tokyo-night&hide_border=true"
+  alt="Contribution Graph"
+/>
+
 </div>
 
 ---
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AyushmanGupta21&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-  />
-</div>
-
----
 
 ## <img src="https://api.iconify.design/ph/link-bold.svg?color=%2338BDF8" width="28" /> Connect & Follow My Journey
 
