@@ -6,7 +6,7 @@
 <!-- About Section -->
 <div align="center">
   <br/>
-  <img src="assets/dynamic-roles.svg" alt="Dynamic Roles" />
+  <img src="assets/dynamic-roles.svg" alt="Dynamic Role" />
   <p>
     <img src="https://img.shields.io/badge/Background-CSE%20(AI%20%26%20ML)-22C55E?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Background"/>
     <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%7C%20Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" alt="Focus"/>
